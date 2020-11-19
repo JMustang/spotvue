@@ -1,4 +1,4 @@
 # A project made with vue.
-## Spotvue.
+## Spotvue, the music play.
 
 ![vue](vue.jpeg)
