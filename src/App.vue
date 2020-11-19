@@ -120,6 +120,10 @@ export default {
    color: #fff;
  }
  main {
+   background-color: #bf3a30;
+background-image: linear-gradient(315deg, #bf3a30 0%, #864ba2 74%);
+
+
    width: 100%;
    max-width: 768px;
    margin: 0 auto;
